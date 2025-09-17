@@ -8,6 +8,8 @@ A modular collection of Telegram bots built for admins, engineers, and creators 
 - [`Ttg-auto-forwarder`](./Ttg-auto-forwarder) — Auto-forward messages with filters and custom captions
 - [`force-join-bot`](./force-join-bot) — Gatekeeping bot that checks channel membership before access
 - [`tg-message-detector`](./tg-message-detector) — Detects sensitive messages and reacts automatically
+- .[`tg-auto-cleaner`](/tg-auto-cleaner) — Auto-delete messages with delay and keyword filters
+- 
 
 ## 🚀 Highlights
 - Built with Pyrogram and clean modular architecture
