@@ -9,7 +9,7 @@ A modular collection of Telegram bots built for admins, engineers, and creators 
 - [`force-join-bot`](./force-join-bot) — Gatekeeping bot that checks channel membership before access
 - [`tg-message-detector`](./tg-message-detector) — Detects sensitive messages and reacts automatically
 - .[`tg-auto-cleaner`](/tg-auto-cleaner) — Auto-delete messages with delay and keyword filters
-- 
+- .[`tg-activity-tracker`](tg-activity-tracker/) — Track user activity with daily logs and JSON-based stats for dashboards and reports.
 
 ## 🚀 Highlights
 - Built with Pyrogram and clean modular architecture
